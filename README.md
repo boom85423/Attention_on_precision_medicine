@@ -1,6 +1,3 @@
-<span class='title'>RE6071020 徐翊展</span>
-<span class='date'></span>
-
 # Gene of affecting Leukemia
 
 ## Motivation
@@ -23,14 +20,6 @@ Everything of life is compose of gene. All phenotype is determined by your own g
 * Attention mechanism
   
     THe term of attention is come from domain of computer vision, it's clear that we only focus on some point when our see something. For example, we can distinguish a car or not only see the number of wheel. There are some advantages of doing attention, such as make the accuracy more exact compare to use all feature for fitting.
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Conclusion
 * Winner list
